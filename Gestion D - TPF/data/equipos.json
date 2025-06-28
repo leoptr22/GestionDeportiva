@@ -1,0 +1,102 @@
+[
+  {
+    "nombre": "toro rosso",
+    "deporte": "futbol"
+  },
+  {
+    "nombre": "red bull",
+    "deporte": "futbol"
+  },
+  {
+    "nombre": "mclaren",
+    "deporte": "futbol"
+  },
+  {
+    "nombre": "mercedes",
+    "deporte": "futbol"
+  },
+  {
+    "nombre": "ferrari",
+    "deporte": "futbol"
+  },
+  {
+    "nombre": "alpine",
+    "deporte": "futbol"
+  },
+  {
+    "nombre": "aston martin",
+    "deporte": "futbol"
+  },
+  {
+    "nombre": "williams",
+    "deporte": "futbol"
+  },
+  {
+    "nombre": "haas",
+    "deporte": "futbol"
+  },
+  {
+    "nombre": "alfa romeo",
+    "deporte": "futbol"
+  },
+  {
+    "nombre": "toronto",
+    "deporte": "basquet"
+  },
+  {
+    "nombre": "boston",
+    "deporte": "basquet"
+  },
+  {
+    "nombre": "miami",
+    "deporte": "basquet"
+  },
+  {
+    "nombre": "atlanta",
+    "deporte": "basquet"
+  },
+  {
+    "nombre": "orlando",
+    "deporte": "basquet"
+  },
+  {
+    "nombre": "brooklyn",
+    "deporte": "basquet"
+  },
+  {
+    "nombre": "new york",
+    "deporte": "basquet"
+  },
+  {
+    "nombre": "philadelphia",
+    "deporte": "basquet"
+  },
+  {
+    "nombre": "barras",
+    "deporte": "voley"
+  },
+  {
+    "nombre": "prince",
+    "deporte": "voley"
+  },
+  {
+    "nombre": "patronato",
+    "deporte": "voley"
+  },
+  {
+    "nombre": "tilos fc",
+    "deporte": "voley"
+  },
+  {
+    "nombre": "los lolos",
+    "deporte": "futbol"
+  },
+  {
+    "nombre": "los liricos",
+    "deporte": "futbol"
+  },
+  {
+    "nombre": "barracas",
+    "deporte": "futbol"
+  }
+]

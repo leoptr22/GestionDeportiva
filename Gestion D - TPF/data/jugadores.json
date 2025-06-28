@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "lionel",
+    "deporte": "Futbol",
+    "club": "haas"
+  },
+  {
+    "nombre": "messi",
+    "deporte": "Futbol",
+    "club": "Libre"
+  },
+  {
+    "nombre": "puyol",
+    "deporte": "Futbol",
+    "club": "Libre"
+  }
+]
