@@ -1,3 +1,7 @@
+
+# TP Tecnicatura Universitaria en Desarrollo Web - UNIVERSIDAD NACIONAL DE ENTRE RIOS
+
+
 ## 📌 Descripción
 
 **Gestión Deportiva** es una aplicación desarrollada en Python que permite organizar y gestionar torneos de distintos deportes (fútbol, básquet, vóley). Está orientado a facilitar la administración de equipos, partidos y resultados, permitiendo llevar un control eficiente y automatizado.
